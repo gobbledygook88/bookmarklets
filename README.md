@@ -1,9 +1,11 @@
 Bookmarklets
 ============
 
-Repository for simple bookmarklets.
+Repository for simple bookmarklets. (More silly hacks, if you will.)
 
 View un-minified source code in `/src` directory. All currently working bookmarklets reside in `/build` directory.
+
+Minified by Google Closure compiler.
 
 ## List of bookmarklets
 
